@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain, Rust projects**
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me **smartdev0909@gmail.com**
+- 📫 How to reach me **seniordev0909@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
