@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richard Tai</h1>
 <h3 align="center">Full Stack Web Developer with Blockchain Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seniordev0909&label=Profile%20views&color=0e75b6&style=flat" alt="seniordev0909" /> </p>
-
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Blockchain, Rust projects**
@@ -19,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seniordev0909&show_icons=true&locale=en&layout=compact" alt="seniordev0909" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seniordev0909&show_icons=true&locale=en" alt="seniordev0909" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seniordev0909&" alt="seniordev0909" /></p>
