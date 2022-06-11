@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Tai</h1>
-<h3 align="center">Full Stack Web Developer with Blockchain Experience</h3>
+<h3 align="center">Full Stack Web & Mobile Developer with Blockchain Experience</h3>
 
-- 👯 I’m looking to collaborate on **Blockchain, Rust projects**
+- 👯 I’m looking to collaborate on **Blockchain, Web, Mobile projects**
 
 - 🌱 I’m currently learning **Rust**
 
